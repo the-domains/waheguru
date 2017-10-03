@@ -1,0 +1,24 @@
+name: Waheguru
+layout_spectrum: 0.31088293116115595
+typography_spectrum: 0.20601752371728155
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+  brandStrength: 0.18082730650932388
+  lightness: 0.28554065100354076
+  saturation: 0.23263711834248324
+  rhythmicContrast: 0.8945215498598689
+title: ''
+description: ''
+author: {}
+content_rating:
+  adult: false
+content: []
+github: true
